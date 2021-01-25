@@ -1,0 +1,21 @@
+    1  pwd
+    2  ls
+    3  ls - l
+    4  ls -l
+    5  cd Users
+    6  pwd
+    7  ls -l
+    8  cd Nemanja
+    9  cd Desktop
+   10  ls -l
+   11  cd ..
+   12  cd ../..
+   13  mkdir test123
+   14  cd test123
+   15  touch test.txt
+   16  nano test.txt
+   17  cat test.txt
+   18  man ls
+   19  man -fls
+   20  history
+   21  history > istorija.txt
